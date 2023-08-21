@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sruthy.S.N.</h1>
 <h3 align="center">A BSc Electronics graduate from the University Institute of Technology Kuravankonam. I'm currently exploring a Java Full Stack training program, working to expand my skills and knowledge.</h3>
 
-- 🔭 I’m currently working on [LingoMentor (E-Learning Management System](https://github.com/SruthySN3/LingoMentor)
+- 🔭 I’m currently working on [LingoMentor (E-Learning Management System)](https://github.com/SruthySN3/LingoMentor)
 
 - 🌱 I’m currently learning **J2EE,Spring,SpringBoot**
 
