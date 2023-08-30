@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sruthysn3@gmail.com**
 
-- 📄 Know about my experiences [hhhh](hhhh)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
